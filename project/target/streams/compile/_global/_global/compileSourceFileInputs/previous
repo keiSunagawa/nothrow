@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[["/Users/kerfume/gits/nothrow/project/dependencies.scala","582965600c9846ec4c9704c730846b37aa208392"],["/Users/kerfume/gits/nothrow/project/Base.scala","9499ac374258f873fae39bd2228569c1e68df1dd"]],"lastModifiedTimes":[]}}]

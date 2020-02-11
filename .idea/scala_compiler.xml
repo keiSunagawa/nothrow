@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="nothrow_9136" />
+    <profile name="sbt 2" modules="nothrow,output,rules,tests">
+      <parameters>
+        <parameter value="-Yrangepos" />
+      </parameters>
+    </profile>
+    <profile name="sbt 3" modules="input">
+      <parameters>
+        <parameter value="-Yrangepos" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-scalac_2.12.10/4.3.0/semanticdb-scalac_2.12.10-4.3.0.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>
